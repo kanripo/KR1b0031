@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 書蔡氏傳旁通
-#+DATE: 2015-09-23 09:36:07
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:02:48.264198
+#+PROPERTY: ID KR1b0031
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一上
 <pb:KR1b0031_WYG_001-1a>¶
 欽定四庫全書¶
 　書蔡氏傳旁通卷一上　元　陳師凱　撰¶
@@ -542,6 +544,7 @@
 　¶
 　¶
 　書蔡氏傳旁通卷一上¶
+#+PROPERTY: JUAN 卷一中
 <pb:KR1b0031_WYG_001-31a>¶
 欽定四庫全書¶
 　書蔡氏傳旁通卷一中　　元　陳師凱　撰¶
@@ -1370,6 +1373,7 @@
 　¶
 　¶
 　書蔡氏傳旁通卷一中¶
+#+PROPERTY: JUAN 卷一下
 <pb:KR1b0031_WYG_001-77a>¶
 欽定四庫全書¶
 　書蔡氏傳旁通卷一下　　元　陳師凱　撰¶
@@ -2126,4 +2130,3 @@
 　¶
 　¶
 　書蔡氏傳旁通卷一下¶
-
